@@ -18,6 +18,7 @@ You bring the curiosity, I’ll bring the data. 🧠💻
 ---
 
 ### 🌐 Socials  
+[![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://suparnachowdhury.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suparna-chowdhury)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/DataSapient)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://suparnachowdhury.medium.com/)
