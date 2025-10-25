@@ -40,7 +40,8 @@ You bring the curiosity, I’ll bring the data. 🧠💻
 ---
 
 ### 📊 A few GitHub stats for fun  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=suparnachowdhury&show_icons=true&theme=radical)  
+| ![GitHub Streak](https://streak-stats.demolab.com?user=suparnachowdhury&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suparnachowdhury&layout=compact&theme=radical) |
+| --- | --- |
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suparnachowdhury&layout=compact&theme=radical)  
 
 ---
