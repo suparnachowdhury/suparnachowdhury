@@ -29,6 +29,7 @@ You bring the curiosity, I’ll bring the data. 🧠💻
 ### 🧠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
