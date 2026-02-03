@@ -24,36 +24,27 @@ You bring the curiosity, I’ll bring the data. 🧠💻
 
 An end-to-end analytics project focused on translating **data governance and compliance metrics into business risk and financial exposure**.
 
-**Key Contributions**
-- Analyzed **5,500+ governance audit records** across business domains and regulatory frameworks
-- Designed a **risk-based scoring framework** converting compliance gaps into estimated financial impact (€)
+- Analyzed **5,500+ governance audit records** across domains and regulations  
+- Designed a **risk-based scoring framework** converting compliance gaps into estimated financial impact (€)  
 - Built an interactive **Power BI dashboard** using advanced **DAX, data modeling, and risk logic**
-- Enabled prioritization of remediation actions based on quantified risk
 
-**Tech Stack**  
-Power BI · DAX · Data Modeling · Risk Analytics  
-
-🔗 GitHub: https://github.com/suparnachowdhury/Enterprise-Data-Governance-Compliance-Risk-Dashboard  
-🔗 Article: https://www.linkedin.com/pulse/from-compliance-metrics-business-decisions-building-data-chowdhury-qobuf/
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/suparnachowdhury/Enterprise-Data-Governance-Compliance-Risk-Dashboard)
+[![Article](https://img.shields.io/badge/Article-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/from-compliance-metrics-business-decisions-building-data-chowdhury-qobuf/)
 
 ---
 
 ### **Tableau Dynamic Zone Visibility — Design Patterns Series**
 **Tableau · Interactive Dashboard Design**
 
-A two-part technical article series focused on reducing dashboard clutter and improving user experience through **Dynamic Zone Visibility (DZV)** techniques in Tableau.
+A two-part technical article series focused on reducing dashboard clutter and improving user experience using **Dynamic Zone Visibility (DZV)** techniques.
 
-**Key Contributions**
-- Step-by-step implementation of **Dynamic Zone Visibility patterns**
-- Advanced use of **Parameter Actions, Sets, and Set Actions**
-- Real-world dashboard patterns: slide-out panels, chart swapping, zooming, and drill-downs
-- Published as long-form, hands-on technical articles
+- Step-by-step implementation of DZV patterns  
+- Advanced use of **Parameter Actions, Sets & Set Actions**  
+- Real-world use cases: slide-out panels, chart swapping, zooming, drill-downs  
+- Published as long-form technical articles
 
-**Tech Stack**  
-Tableau · Dashboard UX · Interaction Design  
-
-🔗 Part 1: https://medium.com/@suparnachowdhury/mastering-dynamic-zone-visibility-in-tableau-part-1-a0057ddae908  
-🔗 Part 2: https://medium.com/@suparnachowdhury/mastering-dynamic-zone-visibility-in-tableau-part-2-ac3fcece1851  
+[![Part 1](https://img.shields.io/badge/Medium-Part%201-000000?logo=medium&logoColor=white)](https://medium.com/@suparnachowdhury/mastering-dynamic-zone-visibility-in-tableau-part-1-a0057ddae908)
+[![Part 2](https://img.shields.io/badge/Medium-Part%202-000000?logo=medium&logoColor=white)](https://medium.com/@suparnachowdhury/mastering-dynamic-zone-visibility-in-tableau-part-2-ac3fcece1851)
 
 ---
 
@@ -62,31 +53,35 @@ Tableau · Dashboard UX · Interaction Design
 
 A research-driven project applying **reinforcement learning** to optimize thermal and electrical energy management in **PEM fuel cell power plants**.
 
-**Key Contributions**
-- Developed an RL-based control strategy for **optimal thermal energy management**
-- Implemented **Q-learning with ε-greedy policy** to minimize total generation cost over 24-hour schedules
-- Optimized power generation, utility energy trading, and **thermal energy recovery & storage**
-- Evaluated performance under real-time demand patterns
+- Developed an RL-based control strategy for optimal thermal energy management  
+- Implemented **Q-learning with ε-greedy policy** to minimize total generation costs  
+- Optimized power generation, utility trading, and thermal energy recovery & storage  
 
-**Tech Stack**  
-Python · Reinforcement Learning · Q-Learning · Energy Systems  
+[![IEEE](https://img.shields.io/badge/Publication-IEEE_Xplore-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/7356834)
 
-📘 Publication: https://ieeexplore.ieee.org/document/7356834
+---
 
-----
 ## 🎓 Certifications
 
-### **IBM Data Science Professional Certificate**  
-A comprehensive professional certification covering data science fundamentals, Python, SQL, data analysis, data visualization, and machine learning techniques. Includes hands-on projects to build real-world skills and a shareable credential. :contentReference[oaicite:0]{index=0}  
-🔗 Certificate: https://www.coursera.org/account/accomplishments/professional-cert/FXDGSC4Z3ZS8
+### **IBM Data Science Professional Certificate**
+A comprehensive professional certificate covering Python, SQL, data analysis, visualization, and machine learning.
 
-### **Power BI Specialization (with DAX)**  
-A specialized training program focused on Power BI, data transformation, and DAX logic for building analytical dashboards and business intelligence reports.  
-🔗 Certificate: https://pavanlalwani.graphy.com/verify-certificate?serialno=LJ8OFDEM
+[![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/FXDGSC4Z3ZS8)
 
-### **Fundamentals of Visualization with Tableau**  
-A foundational course teaching core data visualization principles and Tableau techniques for effective visual storytelling and dashboards.  
-🔗 Certificate: https://coursera.org/verify/TCTLSXJ47BVP
+---
+
+### **Power BI Specialization (with DAX)**
+Advanced Power BI training focused on data modeling, DAX calculations, and analytical dashboard design.  
+Issued by **TechnoEdge Learning Services India Pvt. Ltd.**
+
+[![Certificate](https://img.shields.io/badge/Certificate-Verify-4A4A4A)](https://pavanlalwani.graphy.com/verify-certificate?serialno=LJ8OFDEM)
+
+---
+
+### **Fundamentals of Visualization with Tableau**
+Foundational certification in data visualization principles and Tableau dashboard development.
+
+[![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?logo=coursera&logoColor=white)](https://coursera.org/verify/TCTLSXJ47BVP)
 
 
 ----
