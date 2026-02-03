@@ -73,7 +73,23 @@ Python · Reinforcement Learning · Q-Learning · Energy Systems
 
 📘 Publication: https://ieeexplore.ieee.org/document/7356834
 
+----
+## 🎓 Certifications
 
+### **IBM Data Science Professional Certificate**  
+A comprehensive professional certification covering data science fundamentals, Python, SQL, data analysis, data visualization, and machine learning techniques. Includes hands-on projects to build real-world skills and a shareable credential. :contentReference[oaicite:0]{index=0}  
+🔗 Certificate: https://www.coursera.org/account/accomplishments/professional-cert/FXDGSC4Z3ZS8
+
+### **Power BI Specialization (with DAX)**  
+A specialized training program focused on Power BI, data transformation, and DAX logic for building analytical dashboards and business intelligence reports.  
+🔗 Certificate: https://pavanlalwani.graphy.com/verify-certificate?serialno=LJ8OFDEM
+
+### **Fundamentals of Visualization with Tableau**  
+A foundational course teaching core data visualization principles and Tableau techniques for effective visual storytelling and dashboards.  
+🔗 Certificate: https://coursera.org/verify/TCTLSXJ47BVP
+
+
+----
 ### 🌐 Socials  
 [![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://suparnachowdhury.github.io/home/index.html) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suparna-chowdhury) 
