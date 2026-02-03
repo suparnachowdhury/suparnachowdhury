@@ -17,6 +17,63 @@ You bring the curiosity, I’ll bring the data. 🧠💻
 
 ---
 
+## 🔹 Featured Projects
+
+### **Data Governance & Compliance Risk Analytics**
+**Power BI · Analytics Dashboard**
+
+An end-to-end analytics project focused on translating **data governance and compliance metrics into business risk and financial exposure**.
+
+**Key Contributions**
+- Analyzed **5,500+ governance audit records** across business domains and regulatory frameworks
+- Designed a **risk-based scoring framework** converting compliance gaps into estimated financial impact (€)
+- Built an interactive **Power BI dashboard** using advanced **DAX, data modeling, and risk logic**
+- Enabled prioritization of remediation actions based on quantified risk
+
+**Tech Stack**  
+Power BI · DAX · Data Modeling · Risk Analytics  
+
+🔗 GitHub: https://github.com/suparnachowdhury/Enterprise-Data-Governance-Compliance-Risk-Dashboard  
+🔗 Article: https://www.linkedin.com/pulse/from-compliance-metrics-business-decisions-building-data-chowdhury-qobuf/
+
+---
+
+### **Tableau Dynamic Zone Visibility — Design Patterns Series**
+**Tableau · Interactive Dashboard Design**
+
+A two-part technical article series focused on reducing dashboard clutter and improving user experience through **Dynamic Zone Visibility (DZV)** techniques in Tableau.
+
+**Key Contributions**
+- Step-by-step implementation of **Dynamic Zone Visibility patterns**
+- Advanced use of **Parameter Actions, Sets, and Set Actions**
+- Real-world dashboard patterns: slide-out panels, chart swapping, zooming, and drill-downs
+- Published as long-form, hands-on technical articles
+
+**Tech Stack**  
+Tableau · Dashboard UX · Interaction Design  
+
+🔗 Part 1: https://medium.com/@suparnachowdhury/mastering-dynamic-zone-visibility-in-tableau-part-1-a0057ddae908  
+🔗 Part 2: https://medium.com/@suparnachowdhury/mastering-dynamic-zone-visibility-in-tableau-part-2-ac3fcece1851  
+
+---
+
+### **Reinforcement Learning for Fuel Cell Thermal Energy Management**
+**Machine Learning · Research (IEEE)**
+
+A research-driven project applying **reinforcement learning** to optimize thermal and electrical energy management in **PEM fuel cell power plants**.
+
+**Key Contributions**
+- Developed an RL-based control strategy for **optimal thermal energy management**
+- Implemented **Q-learning with ε-greedy policy** to minimize total generation cost over 24-hour schedules
+- Optimized power generation, utility energy trading, and **thermal energy recovery & storage**
+- Evaluated performance under real-time demand patterns
+
+**Tech Stack**  
+Python · Reinforcement Learning · Q-Learning · Energy Systems  
+
+📘 Publication: https://ieeexplore.ieee.org/document/7356834
+
+
 ### 🌐 Socials  
 [![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://suparnachowdhury.github.io/home/index.html) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suparna-chowdhury) 
