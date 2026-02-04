@@ -19,7 +19,7 @@ You bring the curiosity, I’ll bring the data. 🧠💻
 
 ## 🔹 Featured Projects
 
-### **Data Governance & Compliance Risk Analytics**
+#### **Data Governance & Compliance Risk Analytics**
 **Power BI · Analytics Dashboard**
 
 An end-to-end analytics project focused on translating **data governance and compliance metrics into business risk and financial exposure**.
@@ -33,7 +33,7 @@ An end-to-end analytics project focused on translating **data governance and com
 
 ---
 
-### **Tableau Dynamic Zone Visibility — Design Patterns Series**
+#### **Tableau Dynamic Zone Visibility — Design Patterns Series**
 **Tableau · Interactive Dashboard Design**
 
 A two-part technical article series focused on reducing dashboard clutter and improving user experience using **Dynamic Zone Visibility (DZV)** techniques.
@@ -48,7 +48,7 @@ A two-part technical article series focused on reducing dashboard clutter and im
 
 ---
 
-### **Reinforcement Learning for Fuel Cell Thermal Energy Management**
+#### **Reinforcement Learning for Fuel Cell Thermal Energy Management**
 **Machine Learning · Research (IEEE)**
 
 A research-driven project applying **reinforcement learning** to optimize thermal and electrical energy management in **PEM fuel cell power plants**.
@@ -63,14 +63,14 @@ A research-driven project applying **reinforcement learning** to optimize therma
 
 ## 🎓 Certifications
 
-### **IBM Data Science Professional Certificate**
+#### **IBM Data Science Professional Certificate**
 A comprehensive professional certificate covering Python, SQL, data analysis, visualization, and machine learning.
 
 [![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/FXDGSC4Z3ZS8)
 
 ---
 
-### **Power BI Specialization (with DAX)**
+#### **Power BI Specialization (with DAX)**
 Advanced Power BI training focused on data modeling, DAX calculations, and analytical dashboard design.  
 Issued by **TechnoEdge Learning Services India Pvt. Ltd.**
 
@@ -78,14 +78,14 @@ Issued by **TechnoEdge Learning Services India Pvt. Ltd.**
 
 ---
 
-### **Fundamentals of Visualization with Tableau**
+#### **Fundamentals of Visualization with Tableau**
 Foundational certification in data visualization principles and Tableau dashboard development.
 
 [![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?logo=coursera&logoColor=white)](https://coursera.org/verify/TCTLSXJ47BVP)
 
 
 ----
-### 🌐 Socials  
+## 🌐 Socials  
 [![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://suparnachowdhury.github.io/home/index.html) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suparna-chowdhury) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://suparnachowdhury.medium.com/)
@@ -94,7 +94,7 @@ Foundational certification in data visualization principles and Tableau dashboar
 
 ---
 
-### 🧠 Tech Stack  
+## Tech Stack  
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
