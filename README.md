@@ -1,6 +1,6 @@
-# 🌸 Hey there, data explorer!  
+# Hello Data Explorer!  
 
-Welcome aboard the analytics spaceship — data, Python, and a sprinkle of curiosity included.” ✨💡⚡
+Welcome aboard the analytics spaceship — data, Python, and a sprinkle of curiosity included.”
 
 I spend my days wrangling numbers, training machines to think (kindly), and turning messy data into stories that make sense to humans. 
 
@@ -8,16 +8,16 @@ Around here, you’ll find:
 
 🔹 Projects where math and logic join forces to solve real-world problems  
 🔹 Code experiments that occasionally break, but always teach  
-🔹 Dashboards, models, and maybe a few digital confetti moments when the accuracy score finally improves 🎉  
+🔹 Dashboards, models, and maybe a few digital confetti moments when the accuracy score finally improves  
 
 Whether you’re here to fork, learn, find inspiration, or just see how another human argues with Python — welcome aboard!  
 
 **Let’s decode, debug, and dream big — one repo at a time.**  
-You bring the curiosity, I’ll bring the data. 🧠💻  
+You bring the curiosity, I’ll bring the data.  
 
 ---
 
-## 🔹 Featured Projects
+## Featured Projects
 
 #### **Data Governance & Compliance Risk Analytics**
 **Power BI · Analytics Dashboard**
@@ -61,7 +61,7 @@ A research-driven project applying **reinforcement learning** to optimize therma
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 #### **IBM Data Science Professional Certificate**
 A comprehensive professional certificate covering Python, SQL, data analysis, visualization, and machine learning.
