@@ -110,10 +110,5 @@ Foundational certification in data visualization principles and Tableau dashboar
 
 ---
 
-### 📊 A few GitHub stats for fun  
-| ![GitHub Streak](https://streak-stats.demolab.com?user=suparnachowdhury&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suparnachowdhury&layout=compact&theme=radical) |
-| --- | --- |
-
----
 
 > “Data is like humor — if you have to explain it, it’s probably not that good.” 😄
